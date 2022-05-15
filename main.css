@@ -58,8 +58,8 @@ h3 {
 ul.color-palette {
   display: -ms-grid;
   display: grid;
-  -ms-grid-columns: (auto)[6];
-      grid-template-columns: repeat(6, auto);
+  -ms-grid-columns: (auto)[4];
+      grid-template-columns: repeat(4, auto);
       padding: 10px;
 }
 
